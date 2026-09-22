@@ -3,10 +3,13 @@ import feedparser
 import requests
 import time
 import resend
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # 1. Resend API Setup
 resend.api_key = os.environ["RESEND_API_KEY"]
-YOUR_EMAIL = os.environ.get("YOUR_EMAIL", "abolat01@gmail.com")
+YOUR_EMAIL = os.environ.get("YOUR_EMAIL")
 
 # 2. Target Settings
 SUBREDDITS = "denver+eventplanning"
