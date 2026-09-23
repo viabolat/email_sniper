@@ -1,0 +1,29 @@
+{
+  "automation_leads": {
+    "subreddits": "smallbusiness+startups+entrepreneur+excel+zapier+python",
+    "keywords": [
+      "hire python",
+      "need automation",
+      "looking for zapier",
+      "manual data entry",
+      "too much manual work",
+      "integrate quickbooks",
+      "scrape data",
+      "automate invoice",
+      "need a developer",
+      "site is down",
+      "looking for web designer",
+      "fix my site",
+      "shopify expert",
+      "wordpress broken"
+    ],
+    "exclude_keywords": [
+      "hiring agency",
+      "my portfolio",
+      "check out my channel",
+      "rate my portfolio",
+      "i am a developer",
+      "agency promotion"
+    ]
+  }
+}

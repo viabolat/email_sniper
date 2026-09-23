@@ -2,3 +2,5 @@ feedparser
 requests
 resend
 python-dotenv
+anthropic
+claude-agent-sdk
